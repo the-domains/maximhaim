@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Test]]></title>
         <description><![CDATA[Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maximhaim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 23:25:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 01:21:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maximhaim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The New Space Race]]></title>
             <description><![CDATA[<article><h1>The New Space Race</h1><p>A collection of all the best content in the universe. Okay</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/702ab3018e1b719d51a6cb80bff2880d8433b280.jpg"></article>]]></description>
-            <link>undefinedthe-new-space-race/index.html</link>
+            <link>https://thegrid.ai/maximhaim/the-new-space-race/index.html</link>
             <guid isPermaLink="false">ae6918bd-f63d-4250-9811-6bd57e12efc6</guid>
-            <pubDate>Sun, 14 Feb 2016 23:25:01 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2016 01:21:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
