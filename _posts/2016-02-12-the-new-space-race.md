@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-14T23:25:01.213Z'
-dateModified: '2016-02-12T06:21:05.309Z'
+description: A collection of all the best content in the universe. Okay
+datePublished: '2016-06-03T01:21:19.092Z'
+dateModified: '2016-06-03T01:21:18.135Z'
 title: The New Space Race
 author: []
 sourcePath: _posts/2016-02-12-the-new-space-race.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: the-new-space-race/index.html
 _type: Article
 
